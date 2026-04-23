@@ -483,3 +483,4 @@ $RECYCLE.BIN/
 appsettings.Development.json
 local.settings.json
 *.publishsettings
+.vscode/
