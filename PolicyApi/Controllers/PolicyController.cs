@@ -36,7 +36,7 @@ public class PoliciesController : ControllerBase
     [HttpGet("public")]
     public IActionResult Public()
     {
-        return Ok("Public endpoint working");
+        return Ok("Public endpoint working! Nizam||");
     }
 
     [Authorize]
